@@ -1,0 +1,5 @@
+{
+  "name": "LexiVector: Word Arithmetic Visualizer",
+  "description": "An interactive tool to explore linguistic relationships through word vector arithmetic (A - B + C = D). Powered by Gemini to simulate high-dimensional vector space relationships.",
+  "requestFramePermissions": []
+}
